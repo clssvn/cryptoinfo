@@ -37,6 +37,7 @@ a:hover{
     padding: 20px;
 }
 .nav-container{
+    align-items: flex-start;
     position: fixed;
     left: 0;
     margin: 10px;
@@ -53,7 +54,7 @@ a:hover{
     width: 100%;
 }
 .logo{
-    margin:0 0 0 15px;
+    margin: 0.5em 0 0 15px;
 }
 .logo a{
    color: white;
